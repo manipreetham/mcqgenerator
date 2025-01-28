@@ -1,4 +1,4 @@
-!pip install fpdf
+
 import os
 import pdfplumber
 import google.generativeai as genai
